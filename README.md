@@ -1,5 +1,7 @@
-# game-demo
+game-demo
 ======
+
+Show Me the Game Demo version.
 
 ### How to Add your solutions:
 
